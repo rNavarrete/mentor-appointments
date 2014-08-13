@@ -18,7 +18,7 @@
   * Alan Smith:
   * Hillary Denton:
   * Kavita Sachdeva: Meeka Gayhart, 8/18, 7ish, TBD
-  * Rolando Navarrete
+  * Rolando Navarrete: Danny Garcia 8/19 6pm
 
 #### Donald Knuth Posse
   * Allison Larson: Ben 8/19 6am -7am (GO), Mary 8/20 5pm-6pm
